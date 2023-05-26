@@ -1,2 +1,2 @@
 # VEX
-into to vex
+intro to vex
